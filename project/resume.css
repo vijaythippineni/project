@@ -1,0 +1,72 @@
+
+.none{
+    margin: 50px;
+    border: 1px solid black;
+display: flex;
+gap: 70px;
+background-color: white;
+font-size: 25px;
+line-height: 40px;
+font-weight: bolder;
+color: black;
+}
+.none img{
+    mix-blend-mode: darken;
+}
+.drone{
+    margin: 50px;
+    display: flex;
+    gap: 100px;
+background-color: white;
+
+}
+.open h1{ font-size: 40px;
+    margin-bottom: -40px;
+    margin-left: 45px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+
+}
+.pop{
+    margin-top: 100px;
+}
+.pop h1{
+  
+    font-size: 40px;
+    margin-left: 45px;
+
+}
+.check{
+border: 1px solid black;
+height:400px;
+width: 350px;
+text-align: center;
+}
+
+.check2{border: 1px solid black;
+    height:400px;
+    width: 350px;
+    text-align: center;
+
+}
+.check3{
+    border: 1px solid black;
+height:400px;
+width: 350px;
+text-align: center;
+}
+
+.rat{
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+}
+.rat img{
+    mix-blend-mode: lighten;
+}
+.pop p{
+    color: darkblue;
+    font-size: 35px;
+}

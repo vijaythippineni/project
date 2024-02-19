@@ -1,0 +1,49 @@
+.container .childone{
+    margin-left:500px;
+    padding: 30px;
+    border:  ;
+    width: 500px;
+    display: flex;
+flex-direction: column;
+padding:10px;
+text-align: center;
+font-size: 20px;
+background-image:linear-gradient( white ) ;
+color: white;
+
+}
+
+input{
+    width:180px;
+    height: 20px;
+    font-family: 15px;
+    background-color: transparent;
+    color: white;
+  
+}
+.container{
+    background-image: url(images/2010.i123.005..car\ headlights\ AD\ composition.jpg);
+    background-size: cover;
+    
+    height: 100vh;
+}
+label{
+    margin-left: 20px;
+
+}
+ .one{
+    margin-left: 50px;
+}
+button{
+    padding: 2px;
+    height: 50px;
+    width: 100px;
+    background-color: aqua;
+    color: black;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px rgb(0, 255, 204);
+}
+a{
+    text-decoration: none;
+    
+}
